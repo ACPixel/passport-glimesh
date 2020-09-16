@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\acpix\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\acpix\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\CMake\bin;C:\Program Files\Gource\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.4.0;C:\Program Files\Redis;C:\Program Files\nodejs;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Logstalgia\cmd;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\dotnet;C:\Program Files\Calibre2;C:\Ruby27-x64\bin;C:\Users\acpix\AppData\Local\Programs\Python\Python37\Scripts;C:\Users\acpix\AppData\Local\Programs\Python\Python37;C:\Users\acpix\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Users\acpix\AppData\Local\Programs\Python\Python38-32;C:\Users\acpix\AppData\Local\Programs\Python\Python37-32\Scripts;C:\Users\acpix\AppData\Local\Programs\Python\Python37-32;C:\Users\acpix\AppData\Local\Microsoft\WindowsApps;C:\Users\acpix\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\acpix\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\acpix\AppData\Roaming\Dashlane\6.1907.0.17833\ucrt;C:\Users\acpix\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Qt;C:\Users\acpix\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Ssl;C:\Program Files\CMake\bin;C:\Program Files (x86)\ffmpeg;C:\Program Files\stripe;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\lib\x64;C:\tools\cuda\bin;C:\tools\cuda\lib;C:\Users\acpix\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\acpix\AppData\Roaming\npm;C:\Program Files\animedl;C:\Users\acpix\.deno\bin;C:\Users\acpix\AppData\Local\Programs\Microsoft Code OSS\bin
+
+Yarn version: 
+  1.19.2
+
+Node version: 
+  12.14.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\acpix\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:136846:13)
+      at Interface.emit (events.js:223:5)
+      at Interface._ttyWrite (readline.js:885:16)
+      at ReadStream.onkeypress (readline.js:191:10)
+      at ReadStream.emit (events.js:223:5)
+      at emitKeys (internal/readline/utils.js:433:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1151:36)
+      at ReadStream.emit (events.js:223:5)
+      at addChunk (_stream_readable.js:309:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

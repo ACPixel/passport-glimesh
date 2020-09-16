@@ -1,0 +1,12 @@
+{
+  "name": "passport-glimesh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.10.3"
+  }
+}
