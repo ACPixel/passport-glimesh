@@ -1,6 +1,7 @@
 {
   "name": "passport-glimesh",
   "version": "1.0.2",
+  "description": "Glimesh.tv (OAuth) authentication strategies for Passport.",
   "main": "./dist/index.js",
   "license": "MIT",
   "dependencies": {
@@ -8,5 +9,23 @@
   },
   "devDependencies": {
     "@types/node": "^14.10.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ACPixel/passport-glimesh"
+  },
+  "bugs": {
+    "url": "https://github.com/ACPixel/passport-glimesh"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "ACPixel"
+    }
+  ]
 }
