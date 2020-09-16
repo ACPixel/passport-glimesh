@@ -1,4 +1,4 @@
-# passport-beam
+# passport-glimesh
 
 [Passport](http://passportjs.org/) strategies for authenticating with [Glimesh.tv](https://Glimesh.tv/).
 
