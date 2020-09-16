@@ -25,7 +25,7 @@ passport.use(
     {
       clientID: GLIMESH_CLIENT_ID,
       clientSecret: GLIMESH_CLIENT_SECRET,
-      callbackURL: "http://127.0.0.1:3000/auth/mixer/callback",
+      callbackURL: "http://127.0.0.1:3000/auth/glimesh/callback",
     },
     function (accessToken, refreshToken, profile, done) {
       User.findOrCreate({ glimeshId: profile.id }, function (err, user) {
