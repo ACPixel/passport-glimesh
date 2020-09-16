@@ -1,6 +1,6 @@
 {
   "name": "passport-glimesh",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Glimesh.tv (OAuth) authentication strategies for Passport.",
   "main": "./dist/index.js",
   "license": "MIT",
